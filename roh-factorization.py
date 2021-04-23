@@ -29,7 +29,7 @@ while True:
     g_i[1] = g_i[0]
     g_i[0] = g
 
-    
+
     #print(g)
 
     # print(x_i)
